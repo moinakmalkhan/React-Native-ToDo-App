@@ -1,12 +1,13 @@
 # React-Native-ToDo-App
 ### ToDo app using React native
-My first ever android app! Written in JavaScript with React Native and Expo.
+My first ever android app! Written in JavaScript using React Native and Expo.
 ## Install the App
+Make sure you have installed node.js on your machine.
+
 Open up the command prompt or terminal on the project folder and run the following commands.
 
 `npm i` or `npm install`
 
-Make sure you have installed node.js on your machine.
 ## How to Run
 Run following command on project folder after installation.
 
